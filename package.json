@@ -1,5 +1,6 @@
 {
   "name": "composio-test",
   "version": "0.0.1",
+  "description": "Composio validation sandbox",
   "scripts": { "test": "echo ok && exit 0" }
 }
