@@ -1,0 +1,5 @@
+{
+  "name": "composio-test",
+  "version": "0.0.1",
+  "scripts": { "test": "echo ok && exit 0" }
+}
